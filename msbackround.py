@@ -4,11 +4,11 @@ import time
 
 networks=set(["AirBears.Berkeley"])
 
-import sys
-class nada():
-	def write(self, *args):
-		pass
-sys.stdout = nada()
+#import sys
+#class nada():
+	#def write(self, *args):
+		#pass
+#sys.stdout = nada()
 
 def check_for_networks():
     process = subprocess.Popen(["ipconfig"],stdout= subprocess.PIPE)
