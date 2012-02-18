@@ -1,0 +1,1 @@
+Airbears and Rescomp login are annoying so make program to make you connect fast so you can go fast.
